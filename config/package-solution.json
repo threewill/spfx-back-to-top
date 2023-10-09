@@ -3,14 +3,14 @@
     "solution": {
         "name": "back-to-top-optimizer-extension",
         "id": "0931b7d0-2515-4cf6-ad4b-a3fed3fc140c",
-        "version": "1.0.0.38",
+        "version": "1.0.0.40",
         "includeClientSideAssets": true,
         "isDomainIsolated": false,
         "developer": {
-            "name": "",
-            "websiteUrl": "",
-            "privacyUrl": "",
-            "termsOfUseUrl": "",
+            "name": "ThreeWill, LLC",
+            "websiteUrl": "https://threewill.com/",
+            "privacyUrl": "https://threewill.com/website/threewill-privacy-statement/",
+            "termsOfUseUrl": "https://threewill.com/website/terms-of-use/",
             "mpnId": ""
         },
         "features": [
