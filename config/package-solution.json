@@ -1,9 +1,9 @@
 {
     "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
     "solution": {
-        "name": "back-to-top-optimizer-extension",
+        "name": "Back-to-Top Optimizer Extension",
         "id": "0931b7d0-2515-4cf6-ad4b-a3fed3fc140c",
-        "version": "1.0.0.40",
+        "version": "1.0.0.41",
         "includeClientSideAssets": true,
         "isDomainIsolated": false,
         "developer": {
